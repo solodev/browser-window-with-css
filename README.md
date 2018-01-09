@@ -1,9 +1,9 @@
 # browser-window-with-css
-(Insert Intro Text)
+Designing a portfolio of website designs for customers can show prospective clients the quality of your work. However, creating image after image in various device templates can be a nightmare. Simplify the process by using CSS to create browser window containers.
 
 ## Tutorial
 
-For detailed instructions, view Solodev's (Link) article.
+For detailed instructions, view Solodev's [How to Make a Browser Window with CSS](https://www.solodev.com/blog/web-design/tutorial-tuesdays-how-to-make-a-browser-window-with-css.stml) article.
 
 ## Demo
 
